@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Banner"/>
+  <img src="./banner.png" width="100%" alt="Monkey D. Luffy Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ruthragurubaran J</h1>
@@ -9,37 +9,37 @@ Software Engineer • Java Developer • AI Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+Developer;Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;⚓+One+Piece+Fan"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Software+Engineer;Java+Developer;Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Problem+Solver;⚓+One+Piece+Fan" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech Information Technology Student
+🎓 **B.Tech Information Technology Student**
 
 💻 Passionate about
 
-- Java
-- Python
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
+- ☕ Java
+- 🐍 Python
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌐 Full Stack Development
 
 🌱 Currently Learning
 
-- Spring Boot
-- React
-- Docker
-- System Design
+- 🚀 Spring Boot
+- ⚛️ React
+- 🐳 Docker
+- 🏗️ System Design
 
-⚡ Favorite Quote
+⚡ **Goal**
 
-> **"As long as I'm alive, there are infinite chances."**
+Become a Software Engineer building impactful and scalable applications.
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
@@ -49,7 +49,7 @@ Software Engineer • Java Developer • AI Enthusiast
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -61,7 +61,7 @@ Software Engineer • Java Developer • AI Enthusiast
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -71,7 +71,7 @@ Software Engineer • Java Developer • AI Enthusiast
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -81,7 +81,17 @@ Software Engineer • Java Developer • AI Enthusiast
 
 ---
 
-## 🏆 GitHub Trophies
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Stark1645/Stark1645/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -91,52 +101,52 @@ Software Engineer • Java Developer • AI Enthusiast
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Stark1645&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Stark1645&label=PROFILE+VIEWS&style=for-the-badge&color=0E75B6"/>
 
 </p>
 
 ---
 
-## ⭐ Featured Projects
+# ⭐ Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🚀 TerraShield AI | AI Based Rockfall Detection for Mining Safety |
-| 📚 ExplainFirst | Teaching Evaluation Platform |
-| 🏥 Smart Clinic Management | Java + JDBC + MySQL |
-| 🎮 Wrong Way Game | Java Desktop Game |
+| 🚀 Project | 📄 Description |
+|------------|----------------|
+| **TerraShield AI** | AI-Based Rockfall Detection for Mining Safety |
+| **ExplainFirst** | Teaching Evaluation Platform |
+| **Smart Clinic Management** | Java + JDBC + MySQL |
+| **Wrong Way Game** | Java Desktop Game |
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Stark1645">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
-<a href="www.linkedin.com/in/ruthragurubaran-j-28507b330">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/ruthragurubaran-j-28507b330">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
 <a href="mailto:ruthra1645@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
-<a href="ruthrxn._.x">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<a href="https://instagram.com/ruthrxn._.x">
+<img src="https://skillicons.dev/icons?i=instagram" width="48"/>
 </a>
 
 </p>
 
 ---
 
-## ⚓ Favorite Quote
+# ⚓ Favorite Quote
 
 > **"If you don't take risks, you can't create a future."**
 
