@@ -9,7 +9,7 @@ Software Engineer • Java Developer • AI Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Software+Engineer;Java+Developer;Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Problem+Solver;⚓+One+Piece+Fan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=3B82F6&lines=Software+Engineer;Java+Developer;AI+Enthusiast;Full+Stack+Developer;One+Piece+Fan" />
 </p>
 
 ---
@@ -49,13 +49,13 @@ Become a Software Engineer building impactful and scalable applications.
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Stark1645&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Stark1645&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stark1645&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stark1645&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
@@ -90,12 +90,11 @@ Become a Software Engineer building impactful and scalable applications.
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Stark1645&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Stark1645&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
