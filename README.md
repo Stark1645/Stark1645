@@ -9,7 +9,7 @@ Software Engineer • Java Developer • AI Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=3B82F6&lines=Software+Engineer;Java+Developer;AI+Enthusiast;Full+Stack+Developer;One+Piece+Fan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=3B82F6&lines=Software+Engineer;Java+Developer;AI+Enthusiast;Full+Stack+Developer" />
 </p>
 
 ---
